@@ -1,8 +1,8 @@
-### Hi 👋
-## This sharif. I am a junior fullstack developer php.
-##Skills
+### Greetis! 👋
+#### This sharif. I am a junior fullstack developer php.
+## Skills
 
-##CMS
+## CMS
  * WordPress
  * Webflow
 ## Frontend Skills
@@ -19,12 +19,12 @@
  * sql
  * Database(Mysql)
 
-##Version Control
+## Version Control
   * Git
   * GitHub
   * Bitbucket
 
-##Others
+## Others
   * Grrapic (Photoshop, Adobe Xd, Illustrator, Figma)
   * Onpage SEO
   * Email Marketing(basics).
