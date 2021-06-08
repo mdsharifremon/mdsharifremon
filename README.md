@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi 👋
+## This sharif. I am a junior fullstack developer php.
+##CMS
+ _WordPress
+ _Webflow
+## Frontend Skills
+ _HTML
+ _XHTML
+ _CSS
+ _SASS,SCSS
+ _Bootstrap
+ _JavaScript(Functional, OOP, JSON).
+ _jQuery->AJAX
 
-<!--
-**mdsharifremon/mdsharifremon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Backend 
+ _PHP
+ _sql
+ _Database(Mysql)
 
-Here are some ideas to get you started:
+##Version Control
+  _Git
+  _GitHub
+  _Bitbucket
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Others
+  _Grrapic (Photoshop, Adobe Xd, Illustrator, Figma)
+  _Onpage SEO
+  _Email Marketing(basics).
+
