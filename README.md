@@ -1,4 +1,4 @@
-### Greetis! 👋
+### Greetings! 👋
 #### This sharif. I am a junior fullstack developer php.
 ## Skills
 
