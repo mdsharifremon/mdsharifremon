@@ -1,5 +1,5 @@
 ### Greetings! 👋
-#### This sharif. I am a junior fullstack developer php.
+#### This sharif. I am a junior fullstack developer. I have been working with web development since 2020. 
 ## Skills
 
 ## CMS
@@ -11,18 +11,20 @@
  * CSS
  * SASS,SCSS
  * Bootstrap
- * JavaScript(Functional, OOP, JSON).
- * jQuery->AJAX
+ * JavaScript(Functional, OOP).
+ * JSON
+ * jQuery
+ * AJAX
 
 ## Backend 
  * PHP
+ * API
  * sql
  * Database(Mysql)
 
 ## Version Control
   * Git
   * GitHub
-  * Bitbucket
 
 ## Others
   * Grrapic (Photoshop, Adobe Xd, Illustrator, Figma)
