@@ -23,7 +23,8 @@
 ![Adobe Xd](https://img.shields.io/badge/Adobe_Xd-470137?style=for-the-badge&logo=adobexd&logoColor=white)
 ### In 2021 till now, I learned 
 ![bootstrap](https://img.shields.io/badge/Bootstrap_5-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)<br>
+![tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/FIGMA-EA4C1D?style=for-the-badge&logo=figma&logoColor=white)<br>
 ![javascript](https://img.shields.io/badge/JavaScript_OOP-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![javascript](https://img.shields.io/badge/ES6_ESNEXT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![javascript](https://img.shields.io/badge/asynchronous-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -33,7 +34,7 @@
 ![PHP](https://img.shields.io/badge/PDO-777BB4?style=for-the-badge&logo=php&logoColor=FFF)
 ![PHP](https://img.shields.io/badge/Design_Pattern-777BB4?style=for-the-badge&logo=php&logoColor=FFF)
 ![PHP](https://img.shields.io/badge/Restful_api-007ACC?style=for-the-badge&logo=php&logoColor=FFF)<br>
-![Figma](https://img.shields.io/badge/FIGMA-EA4C1D?style=for-the-badge&logo=figma&logoColor=white)
+
 
 Everyday i am exploring new technology and i always follow the trend.<Br>
 I got started fulltime Freelancing at [**Upwork**](https://www.upwork.com/freelancers/~014d60e5906868b56a), [**Freelancer**](https://www.freelancer.com/u/sharifwds), and [**Fiverr**](https://www.fiverr.com/sharifwds?up_rollout=true) since January-2021.
