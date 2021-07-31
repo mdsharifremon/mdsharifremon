@@ -71,7 +71,7 @@ I got started fulltime Freelancing at [**Upwork**](https://www.upwork.com/freel
 ### CMS
 ![WORDPRESS](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=FFF)
 ### Others
-![seo](https://img.shields.io/badge/on_page_SEO-258AAF?style=for-the-badge&logo=seo&logoColor=FFF)
+![seo](https://img.shields.io/badge/on_page_SEO-1DBF73?style=for-the-badge&logo=seo&logoColor=FFF)
 ![trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=FFF)
 ![clickup](https://img.shields.io/badge/clickup-7B68EE?style=for-the-badge&logo=clickup&logoColor=FFF)
 ![email](https://img.shields.io/badge/Email_marketing-0D101E?style=for-the-badge&logo=Gmail&logoColor=FFF)
