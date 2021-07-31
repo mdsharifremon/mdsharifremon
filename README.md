@@ -99,8 +99,6 @@ I got started fulltime Freelancing at [**Upwork**](https://www.upwork.com/freel
 ![Composer](https://img.shields.io/badge/composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
 
-
-
 ## 📈 Stats
 
 <div>
