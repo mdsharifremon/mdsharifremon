@@ -8,10 +8,10 @@
 <br>
 ### In 2020, I learned 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap_4-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)<br>
+![bootstrap](https://img.shields.io/badge/Bootstrap_4-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)<br>
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![ajax](https://img.shields.io/badge/ajax-FFB000?style=for-the-badge&logo=jquery&logoColor=white)
@@ -76,12 +76,6 @@ I got started fulltime Freelancing at [**Upwork**](https://www.upwork.com/freel
 ![trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=FFF)
 ![clickup](https://img.shields.io/badge/clickup-7B68EE?style=for-the-badge&logo=clickup&logoColor=FFF)
 ![email](https://img.shields.io/badge/Email_marketing-0D101E?style=for-the-badge&logo=Gmail&logoColor=FFF)
-
-
-
-
-
-
 
 
 ### 🖥️ Workspace Setup
