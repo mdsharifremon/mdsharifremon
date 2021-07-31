@@ -20,16 +20,16 @@
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![WORDPRESS](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=FFF)<br>
 ![Adobe Photoshop](https://img.shields.io/badge/adobe_photoshop-001D34?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Xd](https://img.shields.io/badge/Adobe_Xd-470137?style=for-the-badge&logo=adobexd&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ### In 2021 till now, I learned 
 ![bootstrap](https://img.shields.io/badge/Bootstrap_5-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/FIGMA-EA4C1D?style=for-the-badge&logo=figma&logoColor=white)<br>
 ![javascript](https://img.shields.io/badge/JavaScript_OOP-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![javascript](https://img.shields.io/badge/ES6_ESNEXT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![javascript](https://img.shields.io/badge/asynchronous-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![json](https://img.shields.io/badge/Json-000000?style=for-the-badge&logo=json&logoColor=FFF)<br>
-![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&logo=php&logoColor=FFF)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP_OOP-777BB4?style=for-the-badge&logo=php&logoColor=FFF)
 ![PHP](https://img.shields.io/badge/PDO-777BB4?style=for-the-badge&logo=php&logoColor=FFF)
 ![PHP](https://img.shields.io/badge/Design_Pattern-777BB4?style=for-the-badge&logo=php&logoColor=FFF)
@@ -57,12 +57,12 @@ I got started fulltime Freelancing at [**Upwork**](https://www.upwork.com/freel
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 #### Front-end Helpers
 ![Adobe Photoshop](https://img.shields.io/badge/adobe_photoshop-001D34?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Xd](https://img.shields.io/badge/Adobe_Xd-470137?style=for-the-badge&logo=adobexd&logoColor=white)
-![Figma](https://img.shields.io/badge/FIGMA-EA4C1D?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ### Back-End Development
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=FFF)
@@ -74,6 +74,8 @@ I got started fulltime Freelancing at [**Upwork**](https://www.upwork.com/freel
 ![seo](https://img.shields.io/badge/on_page_SEO-258AAF?style=for-the-badge&logo=seo&logoColor=FFF)
 ![trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=FFF)
 ![clickup](https://img.shields.io/badge/clickup-7B68EE?style=for-the-badge&logo=clickup&logoColor=FFF)
+![email](https://img.shields.io/badge/Email_marketing-0D101E?style=for-the-badge&logo=Gmail&logoColor=FFF)
+
 
 
 
@@ -95,7 +97,7 @@ I got started fulltime Freelancing at [**Upwork**](https://www.upwork.com/freel
 #### Workspace Helpers
 
 ![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Composer](https://img.shields.io/badge/composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
 
