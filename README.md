@@ -135,7 +135,7 @@ I got started fulltime Freelancing at [**Upwork**](https://www.upwork.com/freel
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sharifwds@gmail.com)
 [![skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/qoTmNClmC27K)
-[![whatsapp](https://img.shields.io/badge/+8801837581363-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
+[![whatsapp](https://img.shields.io/badge/+8801837581363-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:01837581363)
 
 
 
