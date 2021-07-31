@@ -6,9 +6,9 @@
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology.
 <br>
-#### In 2020, I learned 
+### In 2020, I learned 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)<br>
+![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap_4-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)<br>
@@ -21,7 +21,7 @@
 ![WORDPRESS](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=FFF)<br>
 ![Adobe Photoshop](https://img.shields.io/badge/adobe_photoshop-001D34?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Xd](https://img.shields.io/badge/Adobe_Xd-470137?style=for-the-badge&logo=adobexd&logoColor=white)
-#### In 2021 till now, I learned 
+### In 2021 till now, I learned 
 ![bootstrap](https://img.shields.io/badge/Bootstrap_5-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)<br>
 ![javascript](https://img.shields.io/badge/JavaScript_OOP-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
