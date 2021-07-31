@@ -65,7 +65,6 @@ I got started fulltime Freelancing at [**Upwork**](https://www.upwork.com/freel
 ### Back-End Development
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=FFF)
-![Restful Api](https://img.shields.io/badge/Restful_api-007ACC?style=for-the-badge&logo=fastapi&logoColor=FFF)
 ### Database
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ### CMS
@@ -134,7 +133,7 @@ I got started fulltime Freelancing at [**Upwork**](https://www.upwork.com/freel
 
 #### 📞 Contact Me Via
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://sharifwds@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sharifwds@gmail.com)
 [![whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801837581363)
 [![skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/qoTmNClmC27K)
 
