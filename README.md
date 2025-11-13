@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Sharif Uddin, a **Junior Fullstack Web Developer** (specializing in **Php and WordPress Applications**).
+🎓 I am Sharif Uddin, a  Fullstack Web Developer 
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology.
 <br>
@@ -77,15 +77,7 @@ I got started fulltime Freelancing at [**Upwork**](https://www.upwork.com/freel
 ![email](https://img.shields.io/badge/Email_marketing-0D101E?style=for-the-badge&logo=Gmail&logoColor=FFF)
 
 
-### 🖥️ Workspace Setup
 
-
-![AMD-Rayzen](https://img.shields.io/badge/AMD-Rayzen_5-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
-![XAMPP](https://img.shields.io/badge/Xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
 #### Workspace Helpers
